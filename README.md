@@ -8,7 +8,7 @@ Install Jekyll, then `cd jekyll` and use `bundle exec jekyll serve`
 to serve to a local Web server with automatic refresh on changes.
 
 ## Adding your Project to "Month with Nim"
-Simply make an issue on this repo with the title as your blog, then follow the following format.
+Simply make an issue on this repo following this format:
 ```
 Name: YourProjectName
 
