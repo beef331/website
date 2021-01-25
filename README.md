@@ -8,13 +8,9 @@ Install Jekyll, then `cd jekyll` and use `bundle exec jekyll serve`
 to serve to a local Web server with automatic refresh on changes.
 
 ## Adding your Project to "Month with Nim"
-Fork and modify the next month's `this-month-with-nim.md` in the `jekyll/_posts` folder then make a PR to this repo. If that file doesnt exist, copy `jekyll/assets/this-month-with-nim.md` there adding the correct date of the first of the next month. Adding any required sources to the `jekyll/assets/thismonthwithnim` folder.
-
-First come first serve, add your project to the bottom of the last project.
-
-Below is a simple template to follow:
+Simply make an issue on this repo with the title as your blog, then follow the following format.
 ```
-## YourProjectName
+Name: YourProjectName
 
 Author: YourName or Nickname here
 
